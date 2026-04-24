@@ -1,24 +1,24 @@
-# Two Sum (Versión Adyacente)
+# Two Sum (Adjacent Version)
 
-## Descripción del Problema
+## Problem Description
 
-Dada una lista de números enteros llamada `nums` y un valor objetivo llamado `target`, el objetivo es encontrar los índices de dos números **adyacentes** (que estén uno al lado del otro) cuya suma sea exactamente igual al `target`.
+Given a list of integers called `nums` and a target value called `target`, the goal is to find the indices of two **adjacent** numbers (next to each other) that add up to exactly the `target`.
 
-## Análisis Técnico
+## Technical Analysis
 
-Para quienes están aprendiendo sobre el rendimiento de los algoritmos:
+For those learning about algorithm performance:
 
-- **Complejidad Temporal:** O(n) - El algoritmo solo necesita recorrer la lista una vez, lo que lo hace rápido y eficiente.
-- **Complejidad Espacial:** O(1) - El algoritmo utiliza una cantidad de memoria constante, sin importar qué tan grande sea la lista de números.
+- **Time Complexity:** O(n) - The algorithm only needs to iterate through the list once, making it fast and efficient.
+- **Space Complexity:** O(1) - The algorithm uses a constant amount of memory, regardless of how large the list of numbers is.
 
-## Estructura de Archivos
+## File Structure
 
-- `two_sum.py`: Contiene el código principal con la lógica para resolver el problema.
-- `test.py`: Contiene un conjunto de pruebas unitarias que sirven para comprobar que el código funciona correctamente en distintos escenarios.
+- `two_sum.py`: Contains the main code with the logic to solve the problem.
+- `test.py`: Contains a set of unit tests to check that the code works correctly in different scenarios.
 
-## Instrucciones de Uso
+## Usage Instructions
 
-Para comprobar el funcionamiento del código, abre tu terminal en esta carpeta y ejecuta el archivo de pruebas con el siguiente comando:
+To test the code, open your terminal in this folder and run the test file with the following command:
 
 ```bash
 python test.py

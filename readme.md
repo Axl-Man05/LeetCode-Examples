@@ -1,15 +1,15 @@
 # LeetCode Exercises - Python
 
-¡Hola! Este es un repositorio personal donde guardo mis soluciones a ejercicios de lógica de LeetCode.
+Hello! This is a personal repository where I keep my solutions to LeetCode logic exercises.
 
-El objetivo principal de este proyecto es:
-- Practicar y comprender diferentes algoritmos.
-- Mejorar la legibilidad y estructura del código.
-- Implementar y ejecutar pruebas unitarias para cada solución.
+The main goal of this project is to:
+- Practice and understand different algorithms.
+- Improve code readability and structure.
+- Implement and run unit tests for each solution.
 
-## Cómo ejecutar las pruebas
+## How to run the tests
 
-Para verificar que las soluciones son correctas, navega hasta el directorio del ejercicio específico y ejecuta el siguiente comando en tu terminal:
+To verify that the solutions are correct, navigate to the specific exercise directory and run the following command in your terminal:
 
 ```bash
 python test.py
